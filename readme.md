@@ -1,0 +1,1 @@
+A basic app to fetch latitude and longitude from provided address or zipcode via google maps api and uses it to get the current temperature at that address via darksky api
